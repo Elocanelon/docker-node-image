@@ -19,5 +19,6 @@ docker build .
 For run the image 
 ```
 docker run -p 3000:3000 -d <containerId>
+``
 
 This image will run on [localhost:3000](http://localhost:3000)
